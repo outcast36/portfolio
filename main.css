@@ -38,15 +38,15 @@ h1 {
     flex-direction: column;
 }
 
+.inline-link:hover {
+    text-decoration: underline mediumaquamarine 1.5px;
+    text-underline-offset: 3px;
+}
+
 .inline-link {
     padding: 0;
     color: mediumaquamarine;
     text-decoration: none;
-}
-
-.inline-link:hover {
-    text-decoration: underline mediumaquamarine 20px;
-    text-underline-offset: 3px;
 }
 
 .nav-link {
